@@ -1,0 +1,178 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  margin: 100px auto 0 auto;
+  font-family: 'WindSong', cursive;
+  font-size: 5.625rem;
+  color: #45B29A;
+  font-weight: lighter;
+}
+
+h2 {
+  font-family: 'Zilla Slab', serif;
+  font-size: 2.5rem;
+  color: #1e836c;
+  padding-top: 75px;
+}
+
+h3 {
+  font-family: 'Zilla Slab', serif;
+  font-size: 2rem;
+  color: #45B29A;
+  font-weight: lighter;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: lightgrey;
+  border-width: 6px;
+  width: 5%;
+}
+
+a {
+  color: #45B29A;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: black;
+  transition: 0.3s ease-in-out;
+}
+.avatar {
+  vertical-align: middle;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  position: absolute;
+  left: 250px;
+  top: 40px;
+}
+
+.self-link {
+  text-decoration: none;
+  font-size: 1.2rem;
+  color: #1E836C;
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+.self-link-2 {
+  text-decoration: none;
+  font-size: 1.2rem;
+  color: #1E836C;
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.myphoto {
+  vertical-align: middle;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.page1 {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.cloud1 {
+  position: absolute;
+  left: 250px;
+  bottom: 320px;
+  height: 150px;
+}
+
+.cloud2 {
+  position: absolute;
+  right: 250px;
+  top: 175px;
+  height: 150px;
+}
+
+.desc {
+  width: 40%;
+  margin: auto;
+  padding-bottom: 75px;
+  font-size: 1.2rem;
+}
+
+.page2 {
+  padding-top: 50px;
+  margin: auto;
+}
+
+.page3 {
+  padding: 50px 0 50px 0;
+  background-color: #E4F9F5;
+  margin: 0;
+}
+
+.cp-gif {
+  height: 150px;
+  float: left;
+  margin-right: 50px;
+}
+
+.cw-gif {
+  height: 150px;
+  float: right;
+  margin-left: 50px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.contact-me {
+  padding-bottom: 50px;
+}
+
+.BUTTON_ODQ {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #1E836C;
+   font-family: Helvetica;
+   font-size: 1.5rem;
+   font-weight: 100;
+   padding: 15px;
+   background-color: #45B29A;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 10px auto 75px auto;
+}
+
+.BUTTON_ODQ:hover {
+   background: #7EAB92;
+   border: solid #7EAB92 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.footer-link {
+  text-decoration: none;
+  display: inline-block;
+  margin: 10px 30px;
+
+}
+
+.link {
+  text-decoration: none;
+  margin: auto;
+}
